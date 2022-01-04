@@ -2,7 +2,7 @@
 
 Here we'll see how data is distrubited on relation to variable differents.
 
-## Matrix diagram of frequency with all combinations of variables
+## Matrix diagram of frequency and covariance of all combinations variables.
 
 ![image](https://user-images.githubusercontent.com/78567418/147993811-e01a3446-dc6c-48c4-9d49-46bd4772a928.png)
 
